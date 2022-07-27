@@ -31,3 +31,10 @@ button {
  display: inline-block;
  margin: 10px;
 }
+
+input {
+  margin: 10px;
+  border-radius: 3px;
+  border: 1px solid #bbb;
+  padding: 5px;
+}
